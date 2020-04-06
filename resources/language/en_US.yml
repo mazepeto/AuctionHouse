@@ -2,9 +2,9 @@
 # Refer to https://minecraft.gamepedia.com/Formatting_codes for formatting codes, you can replace the '§' symbol with a '&'
 
 # The titles of the Auction House UI
-menu-name: "&l&6Auction House"
-listings-menu-name: "&6Active Listings"
-expired-menu-name: "&6Cancelled / Expired Listings"
+menu-name: "&l&6경매장"
+listings-menu-name: "&6경매 목록"
+expired-menu-name: "&6취소 / 만료된 목록"
 purchase-menu-name: "Confirm Purchase"
 
 # Chat messages
