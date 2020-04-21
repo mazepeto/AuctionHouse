@@ -5,7 +5,7 @@
 menu-name: "&l&6경매장"
 listings-menu-name: "&6경매 목록"
 expired-menu-name: "&6취소 / 만료된 목록"
-purchase-menu-name: "Confirm Purchase"
+purchase-menu-name: "구매 완료"
 
 # Chat messages
 item-purchased: "&eItem &6purchased&e!"
